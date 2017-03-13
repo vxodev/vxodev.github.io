@@ -1,5 +1,0 @@
-# Meetups
-
-## Foo
-
-## Bar
